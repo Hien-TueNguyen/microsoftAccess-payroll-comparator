@@ -1,0 +1,19 @@
+# Microsoft Access databases
+*.accdb
+*.mdb
+
+# Private data
+private_data/
+data/
+
+# Environment variables
+.env
+*.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code local settings
+.vscode/
