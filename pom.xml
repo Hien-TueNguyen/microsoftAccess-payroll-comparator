@@ -15,4 +15,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>io.github.spannm</groupId>
+            <artifactId>ucanaccess</artifactId>
+            <version>5.1.8</version>
+        </dependency>
+    </dependencies>
+
 </project>
